@@ -1,0 +1,20 @@
+.root {
+    min-height: 100vh;
+    background-color: #112d4e;
+}
+
+.grid-item{
+    color: #f9f7f7;
+    text-align: center;
+}
+
+.error-description{
+    font-style: italic;
+}
+
+.error-title{
+    font-size: 40px;
+}
+
+
+

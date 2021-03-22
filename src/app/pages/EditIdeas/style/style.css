@@ -1,0 +1,11 @@
+.box-editor__description{
+    width: 100%;
+    resize: none; 
+    border-radius: 0.4em; 
+    border-color: rgb(164, 163, 163); 
+}
+
+.box-editor{
+    background-color: white;
+    padding: 2em;
+}

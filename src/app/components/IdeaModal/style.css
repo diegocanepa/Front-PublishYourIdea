@@ -1,0 +1,9 @@
+.textarea__description {
+    width: 100%;
+    resize: none; 
+    border-radius: 0.4em; 
+    border-color: rgb(164, 163, 163); 
+    padding: 1em;
+    font-family: "Roboto";
+    font-size: 17px;
+}

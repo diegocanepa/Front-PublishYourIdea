@@ -1,0 +1,6 @@
+.grid-content{
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    background-color: #dbe2ef;
+}
